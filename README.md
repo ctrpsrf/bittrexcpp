@@ -1,10 +1,10 @@
 # Bittrex wrapper on C++
 A simple wrapper for the Biеtrex exchange. Written in C ++ using QT libraries.
 
-Libraries:
-  - <QNetworkAccessManager>
+Important libs:
+  - QNetworkAccessManager
   - OpenSSL
-  - <QEventLoop>
+  - QEventLoop
 
 ### AvailableMethod
 Description of methods read on [bittrex](https://bittrex.com/Home/Api).
